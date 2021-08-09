@@ -1,0 +1,23 @@
+{
+  "name": "Health Center Alpha",
+  "address": "5/A, First Floor, Medical Arcade, Gandhinagar, Gujarat, India",
+  "district": "Gandhinagar",
+  "state": "GJ",
+  "pinCode": "345678"
+}
+
+{
+  "uuid": "7583958403",
+  "district": "Gandhinagar",
+  "state": "GJ",
+  "pinCode": "345678",
+  "gender": "Male",
+  "dob": "22-08-1992"
+}
+
+{
+  "pseudoUUID": "d79fab18328e6a173ad65e341616bfd3ef4809d9dba5d87fb6ca4210f35e8ad0",
+  "healthConditions": "Normal",
+  "vaccinator": "Dr. John Doe",
+  "vaccineName": "VaccineZeta",
+}
